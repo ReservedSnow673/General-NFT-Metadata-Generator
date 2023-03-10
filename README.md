@@ -19,8 +19,8 @@ You can use this to generate ETH/Polygon/Other evm chains NFT metadata. This too
 
 # Tips:
 Did this help? I hope so :D If you want to tip the addresses are given below and if you do thanks :D
--ETH/Poly/Bsc: 0xd4578a6692ED53A6A507254f83984B2Ca393b513
--Solana: 5VrRcctapQ2chk9cCdcaMEGgTtVPR71fasy7YDr7jLcQ
+- ETH/Poly/Bsc: 0xd4578a6692ED53A6A507254f83984B2Ca393b513
+- Solana: 5VrRcctapQ2chk9cCdcaMEGgTtVPR71fasy7YDr7jLcQ
 
 # Want an NFT Smartcontract? 
 You can go ahead and use [ERC721A SmartContract with OpenSea Royalties](https://github.com/ReservedSnow673/OpenSeaRoyalty-Erc721a-Template)
