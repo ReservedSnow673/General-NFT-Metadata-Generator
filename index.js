@@ -1,10 +1,8 @@
-// Developer - ReservedSnow(https://linktr.ee/reservedsnow)
-
 const collectionName = "ReservedSnow"
 const desc = "Hire ReservedSnow for your needs"
 const imgUri = "ipfs://cid/"
-const startTokenID = 5
-const endTokenID = 6
+const startTokenID = 0
+const endTokenID = 7
 
 const fs = require('fs');
 const path = require('path');
@@ -24,6 +22,7 @@ for (let i = startTokenID ; i < endTokenID; i++) {
         name: `${collectionName} - ${i}`,
         description: desc,
         image: `${imgUri}${i}.png`,
+        id: `${i}`,
         compiler: `Reserved Metadata Generation Script`,
         devContact: `https://linktr.ee/reservedsnow`
     };
@@ -39,5 +38,3 @@ console.log(`
             Solana: 5VrRcctapQ2chk9cCdcaMEGgTtVPR71fasy7YDr7jLcQ
              
             `);
-            
-// Developer - ReservedSnow(https://linktr.ee/reservedsnow)            
